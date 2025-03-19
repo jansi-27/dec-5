@@ -1,0 +1,19 @@
+.container {
+    width: 800px;
+    height: 500px;
+    margin: 15px;
+
+
+}
+
+.a,
+.b,
+.c,
+.d,
+{
+margin: 0px;
+padding: 0px;
+position: relative;
+width: 170px;
+height: 200;
+}
